@@ -18,7 +18,7 @@
       ]
     }
   ],
-  "description": "The CMS CQM Publishable Measure profile defines expectations to enable appropriate content management, discovery, and utilization of CMS program Quality Measures.",
+  "description": "The CMS CQM Publishable Measure profile defines expectations for publication of CMS quality program digital measures.",
   "jurisdiction": [
     {
       "coding": [

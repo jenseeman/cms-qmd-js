@@ -1,11 +1,16 @@
-This informmation is intended to describe the process to record, evaluate, and authorize proposed modifications to the CMS QMD IG. This document ensures that all changes are assessed for their impact on stakeholders, downstream applications quality, compliance, and timelines, and that they are implemented in a controlled and traceable manner.
+This informmation is intended to describe the process to record, evaluate, and authorize proposed modifications to the CMS QMD IG. This process ensures that all changes are assessed for their impact on stakeholders, downstream applications quality, compliance, and timelines, and that they are implemented in a controlled and traceable manner.
 
 ### Stakeholders
 CMS:
-CMS standards development team: 
+
+CMS standards development and maintenance team: 
+
 MADiE development team:
+
 VSAC development team: 
+
 Measure contract teams:
+
 Measure development teams:
 
 ### Process
@@ -15,17 +20,17 @@ Measure development teams:
 
 
 #### Impact Assessment
-1. The CMS standards team will perform an initial review of the request. 
+1. The CMS standards development and maintenance team will perform an initial review of the request. 
 
 2. If needed, additional information may be requested through comments on the issue. 
 
-3. The CMS standards team will evaluate feasibility, identify stakeholders and may develop proposed solutions.
+3. The CMS standards development and maintenance team will evaluate feasibility, identify stakeholders and may develop proposed solutions.
 
 
 #### Community Vetting & Approval
-1. The CMS standards team will determine a plan for stakeholder vetting and approval through discussions on community calls or email.
+1. The CMS standards development and maintenance team will determine a plan for stakeholder vetting and approval through discussions on community calls or email.
 
-2. The CMS standards team will document relevant discussions, including impacts, concerns, or timelines through comments on the Github issue.
+2. The CMS standards development and maintenance team will document relevant discussions, including impacts, concerns, or timelines through comments on the Github issue.
 
 3. Approval or rejection of a change request will be documented on the issue.
 * Approved requests will include a planned date or version for implementation.
@@ -55,7 +60,7 @@ TBD
 
 
 ### Communication
-1. The CMS standards team will communicate to stakeholders when a new version of the IG is available.
+1. The CMS standards development and maintenance team will communicate to stakeholders when a new version of the IG is available.
 
 
  
